@@ -1,0 +1,18 @@
+h1{
+    color:red;
+    font-size: 17px;
+    display: -webkit-box;
+    display: flex;
+}
+div {
+  border: 1px solid #ccc;
+  box-shadow: 5px 2px 6px #000;
+  width: 20%;
+  height: 150px;
+  background: url(../images/519ab548510f6bc09283960db33598cd.gif) no-repeat;
+  background-size: contain;
+}
+div p {
+  font-size: 12px;
+}
+
